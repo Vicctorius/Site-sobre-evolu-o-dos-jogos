@@ -1,0 +1,233 @@
+
+#titulo {
+    position: relative;
+    background-color: blueviolet;
+    border-radius: 200px;
+    width: 500px;
+    height: 40px;
+    left: 500px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#instagram {
+    border: transparent;
+    background-color: white;
+    padding-left: 1350px;
+    
+}
+#youtube {
+    background-color: white;
+    border: transparent;
+}
+#lista{
+     list-style: none;
+}
+
+#games1{
+
+    background-color: blueviolet;
+     color:black;
+    border-right: transparent;
+    border-left: transparent;
+    border-top: transparent;
+    border-bottom: transparent;
+    border-width: transparent;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-size: x-large;
+    border-radius: 100px;
+    width: 220px;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+
+    
+}
+#historia{
+
+        background-color: blueviolet;
+        color:black;
+        border-right: transparent;
+        border-left: transparent;
+        border-top: transparent;
+        border-bottom: transparent;
+        border-width: transparent;
+        font-style: normal;
+        font-size: x-large;
+        border-radius: 100px;
+        width: 220px;
+        text-decoration: none;
+        display: inline-block;
+        text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        
+
+}
+#geracoes{
+        background-color: blueviolet;
+        color:black;
+        border-right: transparent;
+        border-left: transparent;
+        border-top: transparent;
+        border-bottom: transparent;
+        border-width: transparent;
+        font-style: normal;
+        font-size: x-large;
+        border-radius: 100px;
+        width: 310px;
+        height: 37px;
+        text-decoration: none;
+        display: inline-block;
+        text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#empresas2{
+
+    background-color: blueviolet;
+    color:black;
+    border-right: transparent;
+    border-left: transparent;
+    border-top: transparent;
+    border-bottom: transparent;
+    border-width: transparent;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-size: x-large;
+    border-radius: 100px;
+    width: 220px;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    padding-bottom: 5px;
+
+    
+}
+p{
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+
+}
+figure{
+  text-align: center;
+  background-color: rgb(255, 250, 237);
+  padding-top: 50px;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    width: 1500px; 
+}
+#historia2{
+    margin-bottom: -15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#games{
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#geracao{
+
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#empresas{
+       
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#jogos{
+    display: inline-block;
+    height: -100px;
+    text-align: left;
+}
+#zelda{
+    text-align: justify;
+    padding: 0px;
+    margin-left: 20px;
+}
+#mario{
+    text-align: justify;
+    padding: 0px;
+    margin-left: 20px;
+}
+#street{
+    text-align: justify;
+    padding: 0px;
+    margin-left: 20px;
+}
+#mario2{
+    padding-left: 130px;
+    display: inline-block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+#street2{
+    display: inline-block;
+    padding-left: 340px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    
+}
+#zelda2{
+    padding-left: 290px;
+    display: inline-block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+#nintendo{
+    text-align: justify;
+    padding: 0px;
+    margin-left: 20px;
+}
+#rockstar{
+    text-align: justify;
+    padding: 0px;
+    margin-left: 20px;
+}
+#ubisoft{
+    text-align: justify;
+    padding: 0px;
+    margin-left: 20px;
+}
+#nintendo2{
+    display: inline-block;
+    padding-left: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+#rockstar2{
+    display: inline-block;
+    padding-left: 460px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+#ubisoft2{
+    display: inline-block;
+    padding-left: 340px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+} 
+#item1{
+    margin: -20px;
+    display: inline-block;
+    padding-bottom: 20px;
+ 
+}
+#item2{
+    display: inline-block;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    
+}
+#item3{
+    display: inline-block;
+    padding-bottom: 20px;
+    margin: -20px;
+   
+}
+#item4{
+    display: inline-block;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
